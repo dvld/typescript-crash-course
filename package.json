@@ -1,0 +1,19 @@
+{
+  "name": "typescript-crash-course",
+  "version": "1.0.0",
+  "description": "Typescript tutorial from Traversy Media",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dvld/typescript-crash-course.git"
+  },
+  "author": "Niko Roberts",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dvld/typescript-crash-course/issues"
+  },
+  "homepage": "https://github.com/dvld/typescript-crash-course#readme"
+}
